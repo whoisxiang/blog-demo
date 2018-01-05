@@ -203,7 +203,7 @@ top: true
 baidu_analytics: ''
 google_analytics: ''
 #favicon: ./favicon.png
-favicon: http://meetxiang.cn/down/favicon.png
+favicon: /favicon.ico 
 #你的头像url
 avatar: http://meetxiang.cn/down/favicon.png
 
