@@ -5,3 +5,7 @@ db.json
 node_modules/
 public/
 .deploy*/
+./shell/*
+./bak
+./_config.yml
+./themes/yilia/_config.yml
